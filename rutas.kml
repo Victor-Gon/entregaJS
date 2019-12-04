@@ -1,0 +1,77 @@
+<Document>
+  <Placemark>
+    <name>Ruta por Oviedo</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+-5.848,43.365,300
+-5.843,43.363,305
+-5.846,43.361,305
+-5.859,43.361,315
+</coordinates>
+      <altitudeMode>relativeToGround</altitudeMode>
+    </LineString>
+    <Style>id='lineaRoja'&gt;<LineStyle><color>#ff0000ff</color><width>5</width></LineStyle></Style>
+  </Placemark>
+  <Placemark>
+    <name>Gastronomía ovetense</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+-5.845,43.365,290
+-5.847,43.362,305
+-5.855,43.362,305
+-5.850,43.363,310
+</coordinates>
+      <altitudeMode>relativeToGround</altitudeMode>
+    </LineString>
+    <Style>id='lineaRoja'&gt;<LineStyle><color>#ff0000ff</color><width>5</width></LineStyle></Style>
+  </Placemark>
+  <Placemark>
+    <name>Senderismo por el centro de Asturias</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+-5.851,43.369,280
+-5.474,43.184,512
+-5.486,43.345,313
+-5.314,43.384,180
+</coordinates>
+      <altitudeMode>relativeToGround</altitudeMode>
+    </LineString>
+    <Style>id='lineaRoja'&gt;<LineStyle><color>#ff0000ff</color><width>5</width></LineStyle></Style>
+  </Placemark>
+  <Placemark>
+    <name>Escalada en Picos de Europa</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+-5.851,43.369,280
+-5.094,43.087,905
+-5.097,43.079,1007
+-5.087,43.022,1052
+</coordinates>
+      <altitudeMode>relativeToGround</altitudeMode>
+    </LineString>
+    <Style>id='lineaRoja'&gt;<LineStyle><color>#ff0000ff</color><width>5</width></LineStyle></Style>
+  </Placemark>
+  <Placemark>
+    <name>Ruta entre Asturias y Leon</name>
+    <LineString>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <coordinates>
+-5.667,43.539,30
+-5.774,43.017,100
+-5.764,43.123,1032
+-5.623,43.003,1052
+</coordinates>
+      <altitudeMode>relativeToGround</altitudeMode>
+    </LineString>
+    <Style>id='lineaRoja'&gt;<LineStyle><color>#ff0000ff</color><width>5</width></LineStyle></Style>
+  </Placemark>
+</Document>
